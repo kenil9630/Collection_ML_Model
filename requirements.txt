@@ -6,4 +6,3 @@ tensorflow
 plotly
 matplotlib
 seaborn
-os
